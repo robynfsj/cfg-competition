@@ -1,4 +1,17 @@
-/* navbar colour */
+/* navbar */
  .bg-custom-1 {
-   background-color: #85144b;
+   background-color: #484848;
  }
+ /* footer */
+ .bg-custom-2 {
+   background-color: #CA9C3E;
+ }
+
+/* links */
+a {
+  color: #484848;
+}
+
+a:hover {
+  color: #CA9C3E;
+}
