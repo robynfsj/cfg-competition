@@ -1,2 +1,2 @@
-# Code First Girls Introduction to Web Development Course – Final Project
- The final project I created whilst undertaking the Code First Girls Introduction to Web Development Course. It is a website for a caravan park.
+# CFG Web Development Course Project
+ The final project I created whilst undertaking the Introduction to Web Development course run by Code First Girls. It is a website for a caravan park.
